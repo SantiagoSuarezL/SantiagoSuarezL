@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**SantiagoSuarezL/SantiagoSuarezL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Santiago Suarez Lara**, a Software Engineer based in Colombia.
 
-Here are some ideas to get you started:
+I am currently a **Web Developer**, where I specialize in backend migrations and frontend optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about integrating **Cloud services and AI** (like OpenAI and GCP) to automate content and enhance user experiences. My goal is to build software that is simple, impactful, and easy to maintain.
+
+---
+
+### Tools & Tech
+
+* **Languages:** Python, JavaScript 
+* **Frameworks & Libraries:** Django, React, Next.js, Material UI
+* **Databases:** PostgreSQL, Supabase
+* **DevOps & Cloud:** Docker, Google Cloud Platform (GCP), AWS (EC2, S3)
+
+---
+
+### Featured Project 🚀
+
+**[Neonatal Motor Evaluation System](https://github.com/SantiagoSuarezL/EsAbDe-Backend)**
+A web application for clinicians that captures evaluation scores and uses AI to generate personalized feedback. Built with **React and Django**.
+
+---
+
+### A Bit About Me
+
+* 🛠️ I have experience containerizing applications and deploying.
+* 💡 I enjoy solving complex problems through clean code and modern architectures.
+* 📖 Currently exploring new ways to implement AI-driven features in web environments.
