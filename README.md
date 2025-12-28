@@ -17,13 +17,6 @@ I'm passionate about integrating **Cloud services and AI** (like OpenAI and GCP)
 
 ---
 
-### Featured Project 🚀
-
-**[Neonatal Motor Evaluation System](https://github.com/SantiagoSuarezL/EsAbDe-Backend)**
-A web application for clinicians that captures evaluation scores and uses AI to generate personalized feedback. Built with **React and Django**.
-
----
-
 ### A Bit About Me
 
 * 🛠️ I have experience containerizing applications and deploying.
