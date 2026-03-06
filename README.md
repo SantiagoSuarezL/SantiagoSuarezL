@@ -10,10 +10,10 @@ I'm passionate about integrating **Cloud services and AI** (like OpenAI and GCP)
 
 ### Tools & Tech
 
-* **Languages:** Python, JavaScript 
+* **Languages:** Python, JavaScript, Typescript
 * **Frameworks & Libraries:** Django, React, Next.js, Material UI
 * **Databases:** PostgreSQL, Supabase
-* **DevOps & Cloud:** Docker, Google Cloud Platform (GCP), AWS (EC2, S3)
+* **DevOps & Cloud:** Docker, Google Cloud Platform (GCP), AWS (EC2, S3), Daphne
 
 ---
 
