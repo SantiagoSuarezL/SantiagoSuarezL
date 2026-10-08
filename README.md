@@ -16,7 +16,6 @@ I enjoy solving complex engineering problems, designing reliable systems, and tu
 * ☁️ Exploring **cloud architecture, distributed systems, and scalable infrastructure**.
 * 🧪 I care about testing, reliability, automation, and maintainable code.
 * 🚀 Currently building autonomous AI-driven systems and developer-focused tools.
-* 📍 Based in **Villavicencio, Colombia**.
 
 ---
 
@@ -24,7 +23,7 @@ I enjoy solving complex engineering problems, designing reliable systems, and tu
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,ts,js,nodejs,react,nextjs,postgres,supabase,docker,aws,gcp,githubactions,git,github" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,ts,js,nodejs,react,nextjs,astro,postgres,supabase,docker,aws,gcp,githubactions,git,github" />
 
 </p>
 
@@ -32,10 +31,10 @@ I enjoy solving complex engineering problems, designing reliable systems, and tu
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" />
-<img src="https://img.shields.io/badge/Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
-<img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Kimi-4C2889?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Qwen-FF6A00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Opencode-696969?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge" />
 
 </p>
 
@@ -48,28 +47,4 @@ I enjoy solving complex engineering problems, designing reliable systems, and tu
 <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 
-</p>
-
----
-
-## 🤝 Connect
-
-<p align="center">
-
-<a href="https://github.com/SantiagoSuarezL">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/santiago-suarez-7ab192333/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:santiagosl1029@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
-
-<p align="center">
-  <i>Building software, exploring AI, and learning something new every day.</i>
 </p>
